@@ -2,7 +2,6 @@
 ## I am a 15 year old Finnish American artist.
 
 I specialize mainly in;
-* art
+* Art
 * Linux
-
-I have interests in;
+* Lua
