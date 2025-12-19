@@ -3,5 +3,4 @@
 
 I specialize mainly in;
 * Art
-* Linux
 * Lua
